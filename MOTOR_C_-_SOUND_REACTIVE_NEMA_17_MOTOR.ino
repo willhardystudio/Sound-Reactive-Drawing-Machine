@@ -10,7 +10,7 @@ Code in collaboration with open source material provided by DroneBot Workshop 20
 and 
 Will Hardy 
 Dom Hardy 
-Frank F 
+Frank Plowman 
   DroneBot Workshop 2018
   https://dronebotworkshop.com
 */
